@@ -11,7 +11,7 @@ Create a PaginationHelper class that might be used for implementation of paginat
 https://github.com/jpgates28/InRhythmChallenge.git
 
 ## Usage
-This project can be used to implement the pagination of UI components.
+This project is a utility class helpful for querying paging information.
 
 ## How to run
 1. Import this project using Github link - Refer respository details
